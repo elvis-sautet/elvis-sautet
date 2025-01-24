@@ -1,56 +1,47 @@
-# Hello there! 👋
+# Elvis Sautet
 
-<div style="font-family: Arial, sans-serif; color: #2c3e50;">
+**Senior Full Stack Developer | Architect | Mentor**
 
-<h1 style="color: #2980b9;">Elvis Sautet</h1>
+Welcome to my GitHub profile! I am Elvis Sautet, a seasoned full stack developer with over 6 years of experience in crafting exceptional web experiences using cutting-edge technologies. My passion lies in building digital excellence through innovative solutions tailored to meet client needs.
 
-<p style="font-size: 18px;">A passionate and dedicated software engineer with a knack for creating innovative solutions using cutting-edge technologies.</p>
+## Expertise
 
-<h2 style="color: #3498db;">About Me</h2>
-<p>With experience in both front-end and back-end development, I excel at building complete, full-stack applications. My expertise spans a range of technologies and frameworks, allowing me to craft efficient and scalable solutions.</p>
+- **Front-End Development:** Proficient in React.js, Remix.js, and Next.js, creating intuitive and responsive user interfaces.
+- **Back-End Development:** Skilled in Node.js, TypeScript, and GraphQL, developing robust and scalable server-side applications.
+- **Database Management:** Experienced with PostgreSQL and Redis, ensuring efficient data storage and retrieval.
+- **DevOps:** Knowledgeable in Docker, Kubernetes, and AWS, facilitating seamless deployment and maintenance of applications.
 
-<h2 style="color: #3498db;">Technical Skills</h2>
+## Professional Highlights
 
-<h3 style="color: #1abc9c;">Front-end Development</h3>
-<ul style="list-style-type: none; padding: 0;">
-  <li>• <strong>React</strong>: Creating dynamic and responsive user interfaces.</li>
-  <li>• <strong>JavaScript/TypeScript</strong>: Building robust and maintainable codebases.</li>
-  <li>• <strong>HTML/CSS</strong>: Crafting visually appealing and accessible web pages.</li>
-</ul>
+- **6+ Years of Experience:** Delivering high-quality web solutions across various industries.
+- **50+ Projects Completed:** Successfully executed projects ranging from custom web development to SaaS applications.
+- **100+ Students Mentored:** Guided aspiring developers to achieve their career goals through mentorship and training.
+- **Global Reach:** Collaborated with clients and teams across more than 10 countries.
 
-<h3 style="color: #1abc9c;">Back-end Development</h3>
-<ul style="list-style-type: none; padding: 0;">
-  <li>• <strong>Node.js</strong>: Developing scalable and high-performance server-side applications.</li>
-  <li>• <strong>Express.js</strong>: Building RESTful APIs and web services.</li>
-  <li>• <strong>Microservices Architecture</strong>: Designing modular and independently deployable services.</li>
-</ul>
+## Featured Projects
 
-<h3 style="color: #1abc9c;">Databases</h3>
-<ul style="list-style-type: none; padding: 0;">
-  <li>• <strong>PostgreSQL</strong>: Relational database management with strong ACID compliance.</li>
-  <li>• <strong>MongoDB</strong>: Flexible and scalable NoSQL database.</li>
-  <li>• <strong>Firebase</strong>: Real-time database and backend as a service.</li>
-</ul>
+### Motors Marketplace
 
-<h3 style="color: #1abc9c;">Additional Technologies</h3>
-<ul style="list-style-type: none; padding: 0;">
-  <li>• <strong>Redis</strong>: In-memory data structure store for caching and message brokering.</li>
-  <li>• <strong>Docker</strong>: Containerization for consistent development and deployment environments.</li>
-  <li>• <strong>Nginx</strong>: High-performance web server and reverse proxy.</li>
-</ul>
+A premium auto dealership platform offering a complete solution with CRM, real-time chat, and advanced vehicle management. Designed to digitize and enhance car dealership businesses.
 
-<h2 style="color: #3498db;">What I Do</h2>
-<p>I specialize in:</p>
-<ul style="list-style-type: none; padding: 0;">
-  <li>• Developing end-to-end web applications.</li>
-  <li>• Implementing microservices to enhance scalability and maintainability.</li>
-  <li>• Utilizing modern development practices to ensure code quality and performance.</li>
-</ul>
+**Tech Stack:** React.js, Node.js, PostgreSQL, Redis, WebSocket
 
-<h2 style="color: #3498db;">Let's Connect!</h2>
-<p>I am always excited to collaborate on new projects and explore innovative solutions. Feel free to reach out to discuss how we can work together to turn your ideas into reality.</p>
+### Multi-Vendor E-commerce Platform
 
-<p><strong>Elvis Sautet</strong><br>
-<em>Full-Stack Software Engineer</em></p>
+An AI-powered shopping platform revolutionizing online fashion retail with personalized recommendations and real-time inventory management.
 
-</div>
+**Tech Stack:** Remix.js, Node.js, AI/ML, PostgreSQL, Redis, WebSocket, Kafka, Docker, Kubernetes, AWS, Stripe, PayPal, M-Pesa, Flutterwave
+
+### Enaton Tech
+
+A comprehensive school CRM serving over 50,000 students in Kenya, facilitating efficient management of students and teachers. I serve as the tech lead and full stack developer in this ongoing project.
+
+**Tech Stack:** React.js, Node.js, PostgreSQL, Kafka, WebSocket, Docker, Kubernetes, AWS, React Native, Redis
+
+For a detailed view of my work and additional projects, please visit my [portfolio](https://elvissautet.com/).
+
+## Let's Connect
+
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out through my [contact page](https://elvissautet.com/) or connect with me on [LinkedIn](https://www.linkedin.com/in/elvis-sautet/).
+
+Together, let's build something exceptional!
